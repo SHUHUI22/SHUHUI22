@@ -1,5 +1,5 @@
 # Introduction 👩🏻‍💻
-Hi! I'm Goh Shu Hui, a student in the Software Maintenance and Evolution course.
+![Header](./github-header-banner.png)
 I look forward to learning modern software maintenance practices, working with legacy systems, and understanding how software evolves over time.
 - **Fun fact**: I like watching dramas in my free time.
 - **Course expectations**: To gain practical skills in maintaining software, improving existing systems, enhancing software quality and reliability.
