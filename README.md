@@ -4,7 +4,9 @@ I look forward to learning modern software maintenance practices, working with l
 - **Fun fact**: I like watching dramas in my free time.
 - **Course expectations**: To gain practical skills in maintaining software, improving existing systems, enhancing software quality and reliability.
   
-![My Image](me.jpeg)
+<p align="center">
+  <img src="me.jpeg" alt="My Image" width="200">
+</p>
 
 <!--
 **SHUHUI22/SHUHUI22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
