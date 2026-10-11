@@ -1,4 +1,10 @@
-## Hi there 👋
+# Introduction 👩🏻‍💻
+Hi! I'm Goh Shu Hui, a student in the Software Maintenance and Evolution course.
+I look forward to learning modern software maintenance practices, working with legacy systems, and understanding how software evolves over time.
+- **Fun fact**: I like watching dramas in my free time.
+- **Course expectations**: To gain practical skills in maintaining software, improving existing systems, enhancing software quality and reliability.
+  
+![My Image](me.jpeg)
 
 <!--
 **SHUHUI22/SHUHUI22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
